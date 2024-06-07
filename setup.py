@@ -7,6 +7,6 @@ setup(
     install_requires=[
         'grpcio~=1.64.1',
         'grpcio-tools~=1.64.1',
-        'protobuf~=5.27.0'
+        'protobuf~=3.19.5'
     ],
 )
