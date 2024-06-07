@@ -5,7 +5,7 @@ setup(
     version='0.1',
     packages=find_packages(include=["dictum_proto", "dictum_proto.*"]),
     install_requires=[
-        'grpcio~=1.64.1',
-        'grpcio-tools~=1.64.1'
+        'grpcio~=1.50.0',
+        'grpcio-tools~=1.50.0'
     ],
 )
